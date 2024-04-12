@@ -12,7 +12,7 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Karen Bourgeois",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2",
