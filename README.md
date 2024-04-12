@@ -81,6 +81,7 @@ This application showcases proficiency in developing Progressive Web Application
 
 - Karen Bourgeois, 
 - Tutors
+- https://github.com/stellalph
 
 ## License
 
