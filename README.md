@@ -13,6 +13,8 @@
 
 This Progressive Web Application is a comprehensive digital organizer, providing users with a centralized platform to store and manage all their essential information and resources. One of its standout features is its offline capability, allowing users to access and utilize the application without an internet connection. Whether jotting down notes, saving code snippets, or organizing tasks, this PWA ensures that users can seamlessly access their data anytime, anywhere, making it a versatile and reliable tool for enhancing productivity and efficiency.
 
+<video controls src="pwatexteditor.mp4" title="Title"></video>
+
 ## Dependencies
 
 - "dependencies": 
